@@ -1,4 +1,4 @@
 name: Alexander K. Harris
 markdown: kramdown
 permalink: /blog/:year/:month/:day/:title
-baseUrl: 'jekyll-personal-site'
+baseUrl: '/jekyll-personal-site'
